@@ -48,8 +48,8 @@ void primMST() {
         mstSet[i] = false; 
     } 
  
-    key[0] = 0; // Make key 0 so that this vertex is picked as the first vertex 
-    parent[0] = -1; // First node is always root of MST 
+    key[0] = 0; 
+    parent[0] = -1; 
  
     for (int count = 0; count < vertices - 1; count++) { 
         int u = findMinKey(key, mstSet); 
