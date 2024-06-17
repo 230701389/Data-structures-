@@ -1,3 +1,8 @@
+//NAME:YOKESHWARAN K
+//ROLL NO:230701389
+//EX-04:implementation of stack using array
+
+
 #include <stdio.h>
 #include <stdlib.h>
 
