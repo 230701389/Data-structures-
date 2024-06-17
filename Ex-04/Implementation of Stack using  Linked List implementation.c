@@ -1,3 +1,8 @@
+NAME:YOKESHWARAN K
+ROLL NO:230701389
+Ex-04:Implementation of Stack using  Linked List implementation
+
+
 #include <stdio.h>
 #include <stdlib.h>
 
