@@ -1,3 +1,8 @@
+//NAME:YOKESHWARAN K
+//ROLL NO:230701389
+//EX-05:Applications of Stack (Infix to Postfix)
+
+
 #include <stdio.h> 
 #include <stdlib.h> 
 #include <string.h> 
