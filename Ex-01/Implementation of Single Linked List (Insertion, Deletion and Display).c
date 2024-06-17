@@ -1,3 +1,7 @@
+NAME:YOKESHWARANK
+ROLL NO:230701389
+EX-01:Implementation of Single Linked List (Insertion, Deletion and Display)
+
 #include <stdio.h>
 #include <stdlib.h>
 
