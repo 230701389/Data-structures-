@@ -1,3 +1,8 @@
+//NAME:YOKESHWARAN K
+//ROLL NO:230701389
+//EX-08:Performing Tree Traversal Techniques
+
+
 #include <stdio.h>
 #include <stdlib.h>
 
