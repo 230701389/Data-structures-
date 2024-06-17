@@ -1,3 +1,8 @@
+//NAME:YOKESHWARAN K
+//ROLL NO:230701389
+//EX-10:Implementation of AVL Tree
+
+
 #include <stdio.h> 
 #include <stdlib.h> 
  
