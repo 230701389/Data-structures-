@@ -1,3 +1,8 @@
+//NAME:YOKESHWARAN K
+//ROLL NO:230701389
+//EX-07:Implementation of Queue using Array and Linked List implementation
+
+
 #include <stdio.h> 
 #include <stdlib.h> 
  
