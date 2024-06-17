@@ -1,3 +1,8 @@
+NAME:YOKESHWARAN K
+ROLL NO:230701389
+Ex-02:Implementation of Doubly Linked List (Insertion, Deletion and Display)
+
+
 #include <stdio.h>
 #include <stdlib.h>
 
