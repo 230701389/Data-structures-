@@ -1,4 +1,9 @@
- 
+//NAME:YOKESHWARAN K
+//ROLL NO:230701389
+//EX-13:Implementation of Prim's Algorithm
+
+
+
 #include <stdio.h> 
 #include <stdbool.h> 
  
