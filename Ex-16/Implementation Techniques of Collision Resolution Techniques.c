@@ -1,3 +1,8 @@
+//NAME:YOKESHWARAN K
+//ROLL NO:230701389
+//EX-16:Implementation Techniques of Collision Resolution Techniques
+
+
 
 #include <stdio.h>
 #include <stdlib.h>
