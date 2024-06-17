@@ -1,3 +1,8 @@
+//NAME:YOKESHWARAN K
+//ROLL NO:230701389
+//EX-06:Applications of Stack (Evaluating Arithmetic Expression)
+
+
 #include <stdio.h> 
 #include <stdlib.h> 
 #include <ctype.h> 
